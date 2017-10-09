@@ -1,0 +1,25 @@
+#outline{
+    border: 2px solid #58ACFA;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+#title{
+    background-color: #58ACFA;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#search_btn{
+	margin-bottom: 12px;
+}
+
+#cancel_btn{
+	margin-bottom: 12px;
+}
+
+div select{
+	height: 31px;font-size:14px;
+}
